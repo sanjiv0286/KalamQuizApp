@@ -6,7 +6,6 @@ import './quiz.dart';
 
 import './result.dart';
 
-
 void main() async {
   runApp(
     DevicePreview(
@@ -16,9 +15,6 @@ void main() async {
   );
 }
 // =============================
-
-
-
 
 class App extends StatelessWidget {
   const App({super.key});
@@ -34,7 +30,6 @@ class App extends StatelessWidget {
 }
 
 // =================================
-
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});

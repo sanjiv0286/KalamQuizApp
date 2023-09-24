@@ -1,4 +1,3 @@
-
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:kalamquizapp/main.dart';
@@ -14,9 +13,9 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
     super.initState();
-    Timer(const Duration(seconds: 3), () {
-      Navigator.pushReplacement(context,
-          MaterialPageRoute(builder: (context) => const MyApp()));
+    Timer(const Duration(seconds: 5), () {
+      Navigator.pushReplacement(
+          context, MaterialPageRoute(builder: (context) => const MyApp()));
     });
   }
 
@@ -53,7 +52,7 @@ class _SplashScreenState extends State<SplashScreen> {
               children: [
                 Center(
                   child: Text(
-                    "Welcome to My quiz",
+                    "Welcome to My Quiz",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 40,
