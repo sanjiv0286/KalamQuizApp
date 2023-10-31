@@ -1,13 +1,55 @@
 # KalamQuizApp
-<table>
- <tr>
-  <td><img src= "photo1.png" width="150" height="150"></td>
-  <td><img src = "https://firebasestorage.googleapis.com/v0/b/tik-tok-dc867.appspot.com/o/age%2FWhatsApp%20Image%202021-05-08%20at%207.41.13%20PM.jpeg?alt=media&token=2de96e39-9b18-4def-9d0d-1794ab3ded56" width="150" height="250"></td>
-  <td><img src = "https://firebasestorage.googleapis.com/v0/b/tik-tok-dc867.appspot.com/o/age%2FWhatsApp%20Image%202021-05-08%20at%207.41.14%20PM.jpeg?alt=media&token=7eb02159-9eeb-4854-8385-192fb003f962" width="150" height="250"></td>
-</tr> 
- </table>
-
 
 <img src= "https://visitor-badge.laobi.icu/badge?page_id=sanjiv0286/KalamQuizApp" alt="visitor badge"/> |  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sanjiv0286/KalamQuizApp/main)
+## This is Flutter Based basic App.
+
+This is test your Knowledge, what you Know our honourable `Former president APJ Abdul kalam`.
+
+Assumes local installation of  `Android Studio` ,`Flutter`,`Android Emulator` , `Vs Code`.
+
+
+<table>
+ <td>
+  <div>
+    <img src="image/Kalamappicon.png" width="300" height="350" alt="App">
+  </div>
+  <div>AppIcon</div>
+  
+</td>
+ <tr>
+ <hr>
+  
+<!--   <td><img src= "image/Kalamappicon.png" width="300" height="350" alt= "AppIcon"></td> -->
+  <td><img src= "image/photo1.png" width="300" height="350"></td>
+  <td><img src = "image/photo2.png" width="300" height="350"></td>
+  <td><img src = "image/photo3.png" width="300" height="350"></td>
+</tr> 
+ </table>
+<hr>
+ 
+<table>
+ <tr>
+    <td><img src="image/photo4.png" width="800" height="500"></td>
+</tr>
+ </table>
+
+<!--## Demo 
+
+![kalamQuiz2](https://user-images.githubusercontent.com/48892208/102683677-ac19d100-41f8-11eb-9e8a-87d03c3460a1.gif)
+
+-->
+
+
+## Technologies Used
+* Android Studio
+* VS Code
+* Flutter
+* Dart
+* Android Emulator
+
+
+Thank you! ☺️
+
+made with ❤️ by Sanjiv Kushwaha.
 #
 ## Just follow☝️ me and Star⭐ my repository 
