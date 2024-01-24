@@ -1,3 +1,4 @@
+// import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 import 'package:kalamquizapp/splash_screen.dart';
 
@@ -10,6 +11,15 @@ void main() async {
     const App(),
   );
 }
+// void main() async {
+//   runApp(
+//     DevicePreview(
+//       enabled: true,
+//       builder: (context) => const App(),
+//     ),
+//   );
+// }
+
 // =============================
 
 class App extends StatelessWidget {
